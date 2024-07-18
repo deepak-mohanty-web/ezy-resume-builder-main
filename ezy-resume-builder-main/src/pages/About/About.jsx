@@ -87,8 +87,8 @@ const About = () => {
           <FaFacebook style={{ color: "blue" }} />
           <FaGithub style={{ color: "black" }} />
           <FaLinkedin style={{ color: "rgba(79, 150, 212, 0.974)" }} />
-          <IoLogoInstagram style={{color:"red"}} />
-          <IoLogoWhatsapp  style={{color:"green"}}/>
+          <IoLogoInstagram style={{ color: "red" }} />
+          <IoLogoWhatsapp style={{ color: "green" }} />
         </div>
       </div>
     </div>
